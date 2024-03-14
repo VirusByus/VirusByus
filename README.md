@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh-Trung</h1>
-<h3 align="center">A passionate computer science developer from Germany</h3>
+<h3 align="center">A passionate computer science developer from Germany currently studying at KIT.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
